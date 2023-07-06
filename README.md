@@ -1,1 +1,1 @@
-# Webtoon-Image-File-Validator
+# webtoon-image-file-validator
